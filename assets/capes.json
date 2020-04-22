@@ -1,7 +1,7 @@
 [
   {
     "uuid": "47f78584-c76c-4191-92fd-8c943af13054",
-    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape10.png"
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
   },
   {
     "uuid": "f5c0ffd5-e418-4eac-8cf2-d10d1ed146d8",
@@ -13,7 +13,7 @@
   },
   {
     "uuid": "c1ca957e-fb26-4ea0-b339-20802fcf2d33",
-    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape10.png"
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
   },
   {
     "uuid": "6ebdb21b-cf9c-40be-8357-18f872af4010",
@@ -161,11 +161,11 @@
   },
   {
     "uuid": "6315fcfc-058a-4bff-b352-922569d1335b",
-    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape10.png"
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
   },
   {
     "uuid": "60bfe43e-2284-42d5-b40a-0259671e11f5",
-    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape10.png"
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
   },
   {
     "uuid": "73b62ecf-c994-4fce-988f-53a237ad6f5a",
@@ -253,6 +253,10 @@
   },
   {
     "uuid": "01f2376e-3ce6-48fe-8b33-b58e5db77ea8",
-    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape12.png"
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
+  },
+  {
+    "uuid": "e7976ce2-3344-4499-8b15-91adddc5ed0f",
+    "url": "https://raw.githubusercontent.com/kami-blue/assets/assets/assets/capes/cape13.png"
   }
 ]
