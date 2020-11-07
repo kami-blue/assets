@@ -1,0 +1,35 @@
+[
+  {
+    "id": 563138570953687061,
+    "capes": [
+      {
+        "player_uuid": "47f78584-c76c-4191-92fd-8c943af13054",
+        "cape_uuid": "4e8ee",
+        "type": "DONOR"
+      },
+      {
+        "cape_uuid": "e3ec5",
+        "type": "CONTRIBUTOR"
+      }
+    ],
+    "is_premium": true
+  },
+  {
+    "id": 334854726233489409,
+    "capes": [
+      {
+        "cape_uuid": "df57f",
+        "type": "CONTRIBUTOR"
+      },
+      {
+        "cape_uuid": "ac06c",
+        "type": "CONTRIBUTOR"
+      },
+      {
+        "cape_uuid": "e3531",
+        "type": "CONTRIBUTOR"
+      }
+    ],
+    "is_premium": false
+  }
+]
