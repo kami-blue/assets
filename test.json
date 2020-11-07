@@ -21,6 +21,11 @@
     "id": 563138570953687061,
     "capes": [
       {
+        "player_uuid": "a1bc77a1-a243-42d2-9ada-5684756a358c",
+        "cape_uuid": "dd7fe",
+        "type": "DONOR"
+      },
+      {
         "player_uuid": "f2971de0-d91e-4732-8386-93e0f76e1465",
         "cape_uuid": "48603",
         "type": "INVITER"
@@ -29,10 +34,6 @@
         "player_uuid": "9b886361-d234-441d-8540-5201f39e825d",
         "cape_uuid": "d33d3",
         "type": "CONTEST"
-      },
-      {
-        "cape_uuid": "dd7fe",
-        "type": "DONOR"
       },
       {
         "player_uuid": "47f78584-c76c-4191-92fd-8c943af13054",
